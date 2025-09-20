@@ -41,3 +41,20 @@ FOIR Analyser is a tool designed to analyze FOIR (Fixed Obligation to Income Rat
 
 ## License
 MIT License
+
+## Workflow
+If you want to see how the project works, here are some walkthrough images:
+ 
+![Initial View](images/FOIR-Analyser-Home.png)
+ 
+Upload Salary slip, credit card bill....(pdf,png)
+
+ 
+After Processing you will get output.
+
+Success Case
+ 
+![Update With Details](images/FOIR-Analyser-Success.png)
+
+ Faiure Case
+![Output View](images/FOIR-Analyser_failure.png)
