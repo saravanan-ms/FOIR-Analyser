@@ -1,0 +1,27 @@
+# FOIR Analyser Documentation
+
+## Overview
+FOIR Analyser is a tool for analyzing Fixed Obligation to Income Ratio (FOIR) data. It consists of a Python backend (`app.py`) and a PHP-based web interface (`index.php`).
+
+## Components
+- **app.py**: Main Python script for FOIR analysis.
+- **index.php**: Web interface for user interaction.
+- **foir.log**: Log file for storing analysis results.
+- **.env**: Environment configuration file.
+
+## Setup Instructions
+1. Ensure Python 3.8+ and PHP are installed.
+2. Install Python dependencies using `requirements.txt`.
+3. Configure environment variables in `.env`.
+4. Run `app.py` for backend processing.
+5. Use `index.php` for web-based access.
+
+## Usage
+- Start the backend: `python app.py`
+- Open `index.php` in a browser for the web interface.
+
+## Logging
+All analysis results are saved in `foir.log` for review and auditing.
+
+## License
+MIT License

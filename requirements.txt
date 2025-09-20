@@ -1,0 +1,10 @@
+# Python requirements for FOIR Analyser
+flask
+flask-cors
+python-dotenv
+openai
+pandas
+pytesseract
+pillow
+pdf2image
+werkzeug
